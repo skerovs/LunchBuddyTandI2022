@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DfdsLunchBuddy.Domain", "DfdsLunchBuddy.Domain\DfdsLunchBuddy.Domain.csproj", "{8403CDEA-706B-451D-ADB3-980AE24A875E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DfdsLunchBuddy.Domain.UnitTests", "tests\DfdsLunchBuddy.Domain.UnitTests\DfdsLunchBuddy.Domain.UnitTests.csproj", "{90183C5E-B589-44FA-AC12-CA7F6A26B322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8403CDEA-706B-451D-ADB3-980AE24A875E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8403CDEA-706B-451D-ADB3-980AE24A875E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8403CDEA-706B-451D-ADB3-980AE24A875E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8403CDEA-706B-451D-ADB3-980AE24A875E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90183C5E-B589-44FA-AC12-CA7F6A26B322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90183C5E-B589-44FA-AC12-CA7F6A26B322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90183C5E-B589-44FA-AC12-CA7F6A26B322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90183C5E-B589-44FA-AC12-CA7F6A26B322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D11DCA-C159-45FE-B37D-F7CB49434ADC}
+	EndGlobalSection
+EndGlobal
